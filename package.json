@@ -1,0 +1,19 @@
+{
+  "name": "poker-hand-valuator",
+  "version": "1.0.0",
+  "description": "Poker Hand Evaluator from Agile Actors Academy Training by my lovely teacher Livas Dimitrios",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArisApos/Poker-Hand-Valuator.git"
+  },
+  "author": "Aris Apostolou, Dimitris Livas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArisApos/Poker-Hand-Valuator/issues"
+  },
+  "homepage": "https://github.com/ArisApos/Poker-Hand-Valuator#readme"
+}
