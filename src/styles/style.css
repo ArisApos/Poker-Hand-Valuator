@@ -1,9 +1,9 @@
  body {
-        background-image: url(table.jpg);
+        background-image: url(../../public/images/table.jpg);
         background-size: 160%;
         background-repeat: repeat;
         transform: scale();
-        background-position: 50% -25%;
+        background-position: 50% 0%;
         }
  
  
